@@ -7,7 +7,7 @@
 
 ## **Installation Instructions**
 
-1. Download the `WeMod v10.8.1` from the [release](https://github.com/xacgbeta/WeMod-v10.8.1/releases/tag/WeMod). 
+1. Download the `WeMod v10.9.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod). 
 2. Run the `setup` file.
 3. Choose where to save `WeMod` directory (default: `C:\Users\user\AppData\Local\Programs\WeMod`).
 4. Create a shortcut for easier access.
