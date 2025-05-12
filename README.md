@@ -7,19 +7,13 @@
 
 ## **Installation Instructions**
 
-1. Download the `WeMod v10.12.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod). 
-2. Run the `setup` file.
-3. Choose where to save `WeMod` directory (default: `C:\Users\user\AppData\Local\Programs\WeMod`).
-4. Create a shortcut for easier access.
-5. Complete the installation and close the setup.
-6. Launch WeMod using the shortcut.
-7. Enjoy the paid features!🎉  
+1. Download the `WeMod v10.12.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod).
+2. Choose anywhere to extract `WeMod` (e.g., `C:\Users\user\Desktop\WeMod`).
+3. Launch `WeMod.exe`
+4. Enjoy the paid features!🎉  
 
 ## **Uninstallation Instructions**
 
 To properly uninstall, follow these steps:  
-1. Locate the `WeMod shortcut`.  
-2. Right-click and select `Open File Location`.  
-3. Run `unins000.exe` to remove the setup safely.  
+- Delete the WeMod folder.
 
-- **Important:** Do not use third-party uninstallation software (e.g., _GeekUninstaller_), as it may delete your entire game data.  
