@@ -1,5 +1,5 @@
-# **Setup Guide: Using WeMod Crack**
-- This will explains how to install WeMod v10.8.1 with all paid features.  
+# **Setup Guide: Using WeMod Pro**
+- This will explains how to install WeMod v10.12.0 with all paid features.  
 
 ## **Disclaimer**
 - This programs is for informational and educational purposes only. The **author** does not **support, encourage, or condone software piracy or any other illegal activity**. Any references to third-party software are strictly for discussion and legal analysis. Users are solely responsible for ensuring their actions comply with applicable laws. The author assumes no liability for any misuse of this information.  
@@ -7,7 +7,7 @@
 
 ## **Installation Instructions**
 
-1. Download the `WeMod v10.9.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod). 
+1. Download the `WeMod v10.12.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod). 
 2. Run the `setup` file.
 3. Choose where to save `WeMod` directory (default: `C:\Users\user\AppData\Local\Programs\WeMod`).
 4. Create a shortcut for easier access.
