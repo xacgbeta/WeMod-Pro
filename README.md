@@ -1,5 +1,5 @@
 # **Setup Guide: Using WeMod Pro**
-- This will explains how to install WeMod v10.12.0 with all paid features.  
+- This will explains how to install WeMod v10.15.0 with all paid features.  
 
 ## **Disclaimer**
 - This programs is for informational and educational purposes only. The **author** does not **support, encourage, or condone software piracy or any other illegal activity**. Any references to third-party software are strictly for discussion and legal analysis. Users are solely responsible for ensuring their actions comply with applicable laws. The author assumes no liability for any misuse of this information.  
