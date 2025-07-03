@@ -7,7 +7,7 @@
 
 ## **Installation Instructions**
 
-1. Download the `WeMod v10.12.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod).
+1. Download the `WeMod v10.15.0` from the [release](https://github.com/xacgbeta/WeMod-Pro/releases/tag/WeMod).
 2. Choose anywhere to extract `WeMod` (e.g., `C:\Users\user\Desktop\WeMod`).
 3. Launch `WeMod.exe`
 4. Enjoy the paid features!🎉  
